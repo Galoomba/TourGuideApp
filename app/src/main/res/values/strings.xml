@@ -1,0 +1,276 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <string name="Attraction">Attraction</string>
+    <string name="Museums">Museums</string>
+    <string name="NightClubs">NightClubs</string>
+    <string name="Restaurant">Restaurant</string>
+    <string name="Hotels">Hotels</string>
+
+                    <!--provinces-->
+
+    <string name="Cairo">Cairo</string>
+    <string name="Alexandria">Alexandria</string>
+    <string name="Aswan">Aswan</string>
+    <string name="Luxor">Luxor</string>
+
+    <string-array name="luxor_attrations1">
+        <item>Karnak</item>
+        <item>9/10</item>
+        <item>The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of decayed temples, chapels, pylons, and other buildings.</item>
+        <item>geo:25.718370632167094,32.65761362275384?z=18&amp;q=Karnak</item>
+    </string-array>
+
+    <string-array name="luxor_attrations2">
+        <item>Valley of the Kings</item>
+        <item>8/10</item>
+        <item>The Valley of the Kings, the Valley of the Gates of the Kings, is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC.</item>
+        <item>geo:25.7401643,32.601410999999985?z=18&amp;q=Valley of the Kings</item>
+    </string-array>
+
+    <string-array name="luxor_attrations3">
+        <item>Colossi of Memnon</item>
+        <item>9/10</item>
+        <item>The Colossi of Memnon are two massive stone statues of the Pharaoh Amenhotep III, who reigned in Egypt during Dynasty XVIII.</item>
+        <item>geo:25.7205975,32.61045560000002?z=18&amp;q=Colossi of Memnon</item>
+    </string-array>
+
+    <string-array name="luxor_attrations4">
+        <item>Valley of the Queens</item>
+        <item>9/10</item>
+        <item>The Valley of the Queens is a place in Egypt where wives of Pharaohs were buried in ancient times. In ancient times, it was known as Ta-Set-Neferu, meaning –"the place of beauty".</item>
+        <item>geo:25.7285836,32.592921899999965?z=18&amp;q=Valley of the Queens</item>
+    </string-array>
+
+    <string-array name="luxor_attrations5">
+        <item>Medinet Habu</item>
+        <item>8.7/10</item>
+        <item>The Mortuary Temple of Ramesses III at Medinet Habu is an important New Kingdom period structure in the West Bank of Luxor in Egypt.</item>
+        <item>geo:25.7193131,32.601340100000016?z=18&amp;q=Medinet Habu</item>
+    </string-array>
+
+    <string-array name="Aswan_attrations1">
+        <item>Philae</item>
+        <item>8.7/10</item>
+        <item>Philae is currently an island in the reservoir of the Aswan Low Dam downstream of the Aswan Dam and Lake Nasser, Egypt.</item>
+        <item>geo:24.01266,32.87754040000004?z=18&amp;q=Philae</item>
+    </string-array>
+
+    <string-array name="Aswan_attrations2">
+        <item>Unfinished obelisk</item>
+        <item>8.7/10</item>
+        <item>The unfinished obelisk is the largest known ancient obelisk and is located in the northern region of the stone quarries of ancient Egypt in Aswan, Egypt.</item>
+        <item>geo:24.0769005,32.895433300000036?z=18&amp;q=Unfinished obelisk</item>
+    </string-array>
+
+    <string-array name="Aswan_attrations3">
+        <item>Nubian Museum</item>
+        <item>8.7/10</item>
+        <item>The Nubian Museum is an archaeological museum located in Aswan, Upper Egypt. It was built to a design by architect Mahmoud El-Hakim.</item>
+        <item>geo:24.01266,32.87754040000004?z=18&amp;q=Nubian Museum</item>
+    </string-array>
+
+    <string-array name="Aswan_attrations4">
+        <item>Elephantine</item>
+        <item>8.7/10</item>
+        <item>Elephantine is an island on the Nile, forming part of the city of Aswan in southern Egypt. There are archaeological sites on the island.</item>
+        <item>geo:24.083333,32.88333299999999?z=18&amp;q=Elephantine</item>
+    </string-array>
+
+    <string-array name="Aswan_attrations5">
+        <item>Temple of Kom Ombo</item>
+        <item>8.7/10</item>
+        <item>The Temple of Kom Ombo is an unusual double temple in the town of Kom Ombo in Aswan Governorate, Upper Egypt.</item>
+        <item>geo:24.4521332,32.928431899999964?z=18&amp;q=Temple of Kom Ombo</item>
+    </string-array>
+
+    <string-array name="Alex_attrations1">
+        <item>Montaza Palace</item>
+        <item>8.7/10</item>
+        <item>Montaza Palace is a palace and extensive gardens in the Montaza district of Alexandria, Egypt.</item>
+        <item>geo:31.2884954,30.015969199999972?z=18&amp;q=Montaza Palace</item>
+    </string-array>
+
+    <string-array name="Alex_attrations2">
+        <item>Citadel of Qaitbay</item>
+        <item>8.7/10</item>
+        <item>The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt.</item>
+        <item>geo:31.214011,29.885638299999982?z=18&amp;q=Citadel of Qaitbay</item>
+    </string-array>
+
+    <string-array name="Alex_attrations3">
+        <item>Lighthouse of Alexandria</item>
+        <item>8.7/10</item>
+        <item>The Lighthouse of Alexandria, sometimes called the Pharos of Alexandria, was a lighthouse built by the Ptolemaic Kingdom</item>
+        <item>geo:38.7904054,-77.04058099999997?z=18&amp;q=Lighthouse of Alexandria</item>
+    </string-array>
+
+    <string-array name="Alex_attrations4">
+        <item>Roman Amphitheatre</item>
+        <item>8.7/10</item>
+        <item>Montaza Palace is a palace and extensive gardens in the Montaza district of Alexandria, Egypt.</item>
+        <item>geo:31.2884954,30.015969199999972?z=18&amp;q=Roman Amphitheatre</item>
+    </string-array>
+
+    <string-array name="Alex_attrations5">
+        <item>St Takla Haymanots Church</item>
+        <item>8.7/10</item>
+        <item>St. Takla Haymanots Church is a Coptic Orthodox church in the city of Alexandria, Egypt,</item>
+        <item>geo:31.2106377,29.92633849999993?z=18&amp;q=St. Takla Haymanots Church</item>
+    </string-array>
+
+    <string-array name="Cairo_attrations1">
+        <item>Khan elKhalili</item>
+        <item>8.7/10</item>
+        <item>Khan elKhalili is a major souk in the Islamic district of Cairo. The bazaar district is one of Cairos main attractions for tourists and Egyptians alike.</item>
+        <item>geo:30.0477386,31.262253800000053?z=18&amp;q=Khan elKhalili</item>
+    </string-array>
+
+    <string-array name="Cairo_attrations2">
+        <item>Giza pyramid complex</item>
+        <item>8.7/10</item>
+        <item>The Giza pyramid complex is an archaeological site on the Giza Plateau, on the outskirts of Cairo, Egypt.</item>
+        <item>geo:29.9772962,31.132495500000005?z=18&amp;q=Giza pyramid complex</item>
+    </string-array>
+
+    <string-array name="Cairo_attrations3">
+        <item>The Hanging Church</item>
+        <item>8.7/10</item>
+        <item>Saint Virgin Marys Coptic Orthodox Church also known as the Hanging Church is one of the oldest churches in Egypt</item>
+        <item>geo:30.0052663,31.230182600000035?z=18&amp;q=The Hanging Church</item>
+    </string-array>
+
+    <string-array name="Cairo_attrations4">
+        <item>Islamic Cairo</item>
+        <item>8.7/10</item>
+        <item>Islamic Cairo is a part of central Cairo noted for its historically important mosques and other Islamic monuments.</item>
+        <item>geo:30.0455925,31.264035700000022?z=18&amp;q=Islamic Cairo</item>
+    </string-array>
+
+    <string-array name="Cairo_attrations5">
+        <item>Ben Ezra Synagogue</item>
+        <item>8.7/10</item>
+        <item>The Ben Ezra Synagogue, sometimes referred to as the El-Geniza Synagogue or the Synagogue of the Levantines, is situated in Old Cairo,</item>
+        <item>geo:30.0058,31.230999999999995?z=18&amp;q=Ben Ezra Synagogue</item>
+    </string-array>
+
+
+    <string-array name="Luxor_hotle1">
+        <item>Sonesta St. George Hotel Luxor</item>
+        <item>8.7/10</item>
+        <item>Address: امتداد ش كورنيش النيل، Gazirat Al Awameyah, Luxor, Luxor Governorate</item>
+        <item>geo:25.6885677,32.631289700000025?z=18&amp;q=Sonesta St. George Hotel Luxor</item>
+    </string-array>
+
+    <string-array name="Luxor_hotle2">
+        <item>Pavillon Winter Luxor</item>
+        <item>8.7/10</item>
+        <item>Address: Cornish El Nile St, Luxor</item>
+        <item>geo:25.696833,32.636472000000026?z=18&amp;q=Pavillon Winter Luxor</item>
+    </string-array>
+
+
+    <string-array name="Aswan_hotle1">
+        <item>Mövenpick Resort Aswan</item>
+        <item>8.7/10</item>
+        <item>Address: Elphantine Island, Aswan Governorate 8111</item>
+        <item>geo:24.01266,32.87754040000004?z=18&amp;q=Mövenpick Resort Aswan</item>
+    </string-array>
+
+    <string-array name="Aswan_hotle2">
+        <item>Basma hotel</item>
+        <item>8.7/10</item>
+        <item>Address: EI fanadek street -in front of Nubia museum-Aswan, Aswan Governorate 81111</item>
+        <item>geo:24.01266,32.87754040000004?z=18&amp;q=Basma hotel</item>
+    </string-array>
+
+    <string-array name="Alex_hotle1">
+        <item>Hilton Alexandria Corniche</item>
+        <item>8.7/10</item>
+        <item>Address: 544 El-Gaish Rd, Sidi Beshr Bahri, Qism El-Montaza, Alexandria Governorate 21611</item>
+        <item>geo:31.245765,29.965636000000018?z=18&amp;q=Hilton Alexandria Corniche</item>
+    </string-array>
+
+    <string-array name="Alex_hotle2">
+        <item>Four Seasons</item>
+        <item>8.7/10</item>
+        <item>Address: El-Gaish Rd, San Stifano, Alexandria Governorate 21599.</item>
+        <item>geo:31.26138499999999,29.983745?z=18&amp;q=Four Seasons</item>
+    </string-array>
+
+
+    <string-array name="Cairo_hotle2">
+        <item>Helnan Landmark</item>
+        <item>8.7/10</item>
+        <item>Adddress: 87 South 90 st New Cairo, Cairo Governorate.</item>
+        <item>geo:30.06223679999999,31.21225609999999?z=18&amp;q=Helnan Landmark</item>
+    </string-array>
+
+    <string-array name="Cairo_hotle1">
+        <item>Barceló Cairo Pyramids</item>
+        <item>8.7/10</item>
+        <item>Address: St, 229 Al Haram, Al Omraneyah, Giza Governorate 12111.</item>
+        <item>geo:30.0654612,31.227769999999964?z=18&amp;q=Barceló Cairo Pyramids</item>
+    </string-array>
+
+
+    <string-array name="Luxor_clubs1">
+        <item>Sunrise Restaurant &amp; Bar</item>
+        <item>8.7/10</item>
+        <item>Address: Kaled Ebn Elwaled St,, Luxor.</item>
+        <item>geo:25.6876695,32.63196449999998?z=18&amp;q=Sunrise Restaurant &amp; Bar</item>
+    </string-array>
+
+    <string-array name="Luxor_clubs2">
+        <item>The Kings Head Pub</item>
+        <item>8.7/10</item>
+        <item>Address: Street,, Khaled Ibn Al Walid, Luxor, Luxor Governorate 85111</item>
+        <item>geo:25.6876278,32.63197390000005?z=18&amp;q=The Kings Head Pub</item>
+    </string-array>
+
+    <string-array name="Aswan_clubs1">
+        <item>El Dokka</item>
+        <item>8.7/10</item>
+        <item>Address: Kornish Al Nile, وسط البلد، Qism Aswan, Aswan Governorate</item>
+        <item>geo:24.01266,32.87754040000004?z=18&amp;q=El Dokka</item>
+    </string-array>
+
+    <string-array name="Aswan_clubs2">
+        <item>Aswan Moon</item>
+        <item>8.7/10</item>
+        <item>Address: Sheyakhah Thalethah, Qism Aswan, Aswan Governorate</item>
+        <item>geo:24.01266,32.87754040000004?z=18&amp;q=Aswan Moon</item>
+    </string-array>
+
+    <string-array name="Alex_clubs1">
+        <item>Le Bar</item>
+        <item>8.7/10</item>
+        <item>Address: El-Gaish Rd, Alexandria, Alexandria Governorate 21599.</item>
+        <item>geo:31.245765,29.965636000000018?z=18&amp;q=Le Bar</item>
+    </string-array>
+
+    <string-array name="Alex_clubs2">
+        <item>Club 35</item>
+        <item>8.7/10</item>
+        <item>Address: Khaled Ibn Al Walid, Sidi Beshr Bahri, Qism El-Montaza, Alexandria Governorate.</item>
+        <item>geo:31.26138499999999,29.983745?z=18&amp;q=Club 35</item>
+    </string-array>
+
+    <string-array name="Cairo_clubs1">
+        <item>Stage One</item>
+        <item>8.7/10</item>
+        <item>Address: Conrad Cairo, 1191 Nile Corniche, Boulaq, Cairo Governorate 11221.</item>
+        <item>geo:30.0654612,31.227769999999964?z=18&amp;q=Stage One</item>
+    </string-array>
+
+    <string-array name="Cairo_clubs2">
+        <item>Cairo Jazz Club</item>
+        <item>8.7/10</item>
+        <item>Address: 197 26th of July Corridor, Madinet Al Eelam, Al Agouzah, Giza .</item>
+        <item>geo:30.06223679999999,31.21225609999999?z=18&amp;q=Cairo Jazz Club</item>
+    </string-array>
+
+
+
+
+</resources>
